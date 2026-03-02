@@ -1,0 +1,16 @@
+C:\Users\Артемий\source\repos\InsuranceApp\InsuranceApp\bin\Debug\InsuranceApp.exe.config
+C:\Users\Артемий\source\repos\InsuranceApp\InsuranceApp\bin\Debug\InsuranceApp.exe
+C:\Users\Артемий\source\repos\InsuranceApp\InsuranceApp\bin\Debug\InsuranceApp.pdb
+C:\Users\Артемий\source\repos\InsuranceApp\InsuranceApp\obj\Debug\InsuranceApp.csproj.AssemblyReference.cache
+C:\Users\Артемий\source\repos\InsuranceApp\InsuranceApp\obj\Debug\InsuranceApp.LoginForm.resources
+C:\Users\Артемий\source\repos\InsuranceApp\InsuranceApp\obj\Debug\InsuranceApp.MainForm.resources
+C:\Users\Артемий\source\repos\InsuranceApp\InsuranceApp\obj\Debug\InsuranceApp.Properties.Resources.resources
+C:\Users\Артемий\source\repos\InsuranceApp\InsuranceApp\obj\Debug\InsuranceApp.csproj.GenerateResource.cache
+C:\Users\Артемий\source\repos\InsuranceApp\InsuranceApp\obj\Debug\InsuranceApp.csproj.CoreCompileInputs.cache
+C:\Users\Артемий\source\repos\InsuranceApp\InsuranceApp\obj\Debug\InsuranceApp.exe
+C:\Users\Артемий\source\repos\InsuranceApp\InsuranceApp\obj\Debug\InsuranceApp.pdb
+C:\Users\Артемий\source\repos\InsuranceApp\InsuranceApp\obj\Debug\InsuranceApp.ClientsForm.resources
+C:\Users\Артемий\source\repos\InsuranceApp\InsuranceApp\obj\Debug\InsuranceApp.PoliciesForm.resources
+C:\Users\Артемий\source\repos\InsuranceApp\InsuranceApp\obj\Debug\InsuranceApp.FinanceForm.resources
+C:\Users\Артемий\source\repos\InsuranceApp\InsuranceApp\obj\Debug\InsuranceApp.RequestForm.resources
+C:\Users\Артемий\source\repos\InsuranceApp\InsuranceApp\obj\Debug\InsuranceApp.ReportsForm.resources
