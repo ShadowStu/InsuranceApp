@@ -1,0 +1,14 @@
+<Solution>
+  <Folder Name="/Classes/">
+    <File Path="App.config" />
+  </Folder>
+  <Folder Name="/Data/">
+    <File Path="DbProvider.cs" />
+  </Folder>
+  <Folder Name="/Forms/">
+    <File Path="Insurance/Form1.cs" />
+    <File Path="Insurance/Form1.Designer.cs" />
+    <File Path="Insurance/Form1.resx" />
+  </Folder>
+  <Project Path="Insurance/Insurance.csproj" />
+</Solution>
